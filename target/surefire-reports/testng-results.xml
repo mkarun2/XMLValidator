@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.mathu.validator.XMLValidatorTest" duration-ms="97" started-at="2017-10-26T04:25:57Z" finished-at="2017-10-26T04:25:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="97" started-at="2017-10-26T04:25:57Z" finished-at="2017-10-26T04:25:57Z">
+      <class name="com.mathu.validator.XMLValidatorTest">
+        <test-method status="PASS" signature="testXmlValidator()[pri:0, instance:com.mathu.validator.XMLValidatorTest@5771dc60]" name="testXmlValidator" duration-ms="35" started-at="2017-10-25T23:25:57Z" finished-at="2017-10-25T23:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testXmlValidator -->
+        <test-method status="PASS" signature="testXmlValidatorInvalid()[pri:0, instance:com.mathu.validator.XMLValidatorTest@5771dc60]" name="testXmlValidatorInvalid" duration-ms="41" started-at="2017-10-25T23:25:57Z" finished-at="2017-10-25T23:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testXmlValidatorInvalid -->
+      </class> <!-- com.mathu.validator.XMLValidatorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.mathu.validator.XMLValidatorTest -->
+</testng-results>
